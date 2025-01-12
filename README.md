@@ -13,12 +13,12 @@ Prepare to dive deep into the layers of musical data and discover the patterns t
 
 ## Project requirements
 You'll need Python 3 or a newer version and can choose any IDE (Jupyter Notebook, Spyder, PyCharm, Visual Studio, etc.). You’ll also need to have the following Python libraries installed:
-Pandas
-NumPy
-Matplotlib
-Scipy
-Scikit-learn
-Seaborn 
+1. Pandas
+2. NumPy
+3. Matplotlib
+4. Scipy
+5. Scikit-learn
+6. Seaborn 
 
 
 ## Project files
